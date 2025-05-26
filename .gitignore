@@ -1,0 +1,4 @@
+# Ignore PyCharm settings
+../../Desktop/ai-data-analyst-demo/.idea/
+*.iml
+*.iws
